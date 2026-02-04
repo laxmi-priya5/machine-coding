@@ -1,0 +1,22 @@
+.tabs{
+    border: 1px solid black;
+    padding:3px 2px;
+    
+}
+.tabs:hover{
+    cursor: pointer;
+}
+.tab-container{
+    
+    margin-top: 10px;
+}
+.form-container{
+    margin-top:-23px;
+    border: 1px solid black;
+    height:300px;
+    width:50%;
+    padding:50px;
+}
+.profile-data{
+    margin-bottom:5px;
+}
