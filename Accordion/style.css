@@ -1,0 +1,14 @@
+.section-header{
+    
+}
+
+.accordion-Item{
+    border-bottom: 1px solid gray;
+}
+
+.accordion-container{
+    width:50%;
+    margin:auto;
+    border:1px solid gray;
+    padding:3px;
+}
